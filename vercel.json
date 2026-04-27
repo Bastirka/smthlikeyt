@@ -1,7 +1,6 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "rootDirectory": ".",
   "env": {
     "VITE_API_URL": "@vite_api_url",
     "VITE_STRIPE_KEY": "@vite_stripe_key",
